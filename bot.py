@@ -14,7 +14,7 @@ import aiohttp
 from collections import defaultdict
 
 API_TOKEN = os.getenv("API_TOKEN")
-SHAZAM_API_KEY = os.getenv("6f730c904emsh5b4f04597554a44p14aa86jsn34b9024d2953")
+SHAZAM_API_KEY = os.getenv("SHAZAM_API_KEY")
 ADMIN_ID = int(os.getenv("ADMIN_ID"))
 BOT_USERNAME = "DownTownmBot"
 
