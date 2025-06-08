@@ -15,7 +15,7 @@ from collections import defaultdict
 
 API_TOKEN = os.getenv("8082756911:AAGRgAJ8yBz-UGuHQU00N0CABxSmyNM03F8")
 SHAZAM_API_KEY = os.getenv("6f730c904emsh5b4f04597554a44p14aa86jsn34b9024d2953")
-ADMIN_ID = int(os.getenv("1930843463"))
+ADMIN_ID = int(os.getenv("ADMIN_ID"))
 BOT_USERNAME = "DownTownmBot"
 
 dp = Dispatcher()
